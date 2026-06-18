@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/PedroYamada777/APIRender/issues"
   },
-  "homepage": "https://github.com/PedroYamada777/APIRender#readme"
+  "homepage": "https://github.com/PedroYamada777/APIRender#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
 }
